@@ -2,7 +2,6 @@ package carRentalSystem.carRentalSystem;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
-import java.util.Date;
 
 public class Reservation {
     private final String reservationId;
